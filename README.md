@@ -1,4 +1,4 @@
-✨ About Me in 30 Secs ✨
+✨ About Me ✨
 - 👋 Hi, I’m Dean Bartorillo, an aspiring data analyst.
 - 👩🏻‍💻 Engineer turned data analyst
 - 📊 Transitioned to data in spring 2018
