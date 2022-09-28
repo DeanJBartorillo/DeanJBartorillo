@@ -1,24 +1,24 @@
 ✨ About Me in 30 Secs ✨
-👩🏻‍💻 Engineer turned data analyst
-📊 Transitioned to data since March 2018
-📝 Taught myself SQL, Excel, Python and Tableau
-📚 Projects & Guides 📚
-Click HERE for my projects and guides
-Want to learn SQL, but not sure where to start? Click HERE
-💡 Core Competencies 💡
+- 👋 Hi, I’m Dean Bartorillo, an aspiring data analyst.
+- 👩🏻‍💻 Engineer turned data analyst
+- 📊 Transitioned to data in spring 2018
+- 📝 Taught myself SQL, Excel, Python and Tableau
+- 🌱 I’m currently learning Tableau for better data visualization and story-teling
+- 📫 Dbartorillo@outlook.com
+
+💡 Core Competencies 💡<br>
 Tools: SQL, Python, Tableau
 Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Relational Databases, Dashboard Design and Development
 
-- 👋 Hi, I’m @DeanJBartorillo, an aspiring data analyst.<br>
-- 🌱 I’m currently learning Tableau for better data visualization and story-teling
-- 📫 Dbartorillo@outlook.com
+📚 Projects & Guides 📚 <br>
+Click HERE for my projects and guides <br>
 
 <!---
 DeanJBartorillo/DeanJBartorillo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-
+<br><br><br>
 # Breaking-into-tech-as-a-data-professional
 So, you want to break into tech as a data professional, but you don't want to break the bank? I have collected all of the links, resources, and suggestions I have received on my journey of breaking into the field (starting from being a complete beginner!) and I am sharing all of them with you now. 
 
