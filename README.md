@@ -3,15 +3,20 @@
 - 👩🏻‍💻 Engineer turned data analyst
 - 📊 Transitioned to data in spring 2018
 - 📝 Taught myself SQL, Excel, Python and Tableau
-- 🌱 I’m currently learning Tableau for better data visualization and story-teling
+- 🌱 I’m currently taking another Tableau course to improve my data visualization and story-teling
 - 📫 Dbartorillo@outlook.com
 
 💡 Core Competencies 💡<br>
-Tools: SQL, Python, Tableau
-Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Relational Databases, Dashboard Design and Development
+Tools: SQL, Python, R, Tableau, Microsoft Office Suite
+Skills: Data Cleaning and Wrangling, Data Visualization, Data Analysis, Relational Databases, Dashboard Design and Development
 
 📚 Projects & Guides 📚 <br>
 Click HERE for my projects and guides <br>
+
+🙌🏻 Connect with Me
+* [Email](dbartorillo@outlook.com)
+* [LinkedIn](https://linkedin.com/in/deanbartorillo/)
+* [Kaggle](https://www.kaggle.com/deanbinnc)
 
 <!---
 DeanJBartorillo/DeanJBartorillo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
