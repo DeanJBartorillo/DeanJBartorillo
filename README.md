@@ -1,4 +1,15 @@
-- 👋 Hi, I’m @DeanJBartorillo, an aspiring data analyst.
+✨ About Me in 30 Secs ✨
+👩🏻‍💻 Engineer turned data analyst
+📊 Transitioned to data since March 2018
+📝 Taught myself SQL, Excel, Python and Tableau
+📚 Projects & Guides 📚
+Click HERE for my projects and guides
+Want to learn SQL, but not sure where to start? Click HERE
+💡 Core Competencies 💡
+Tools: SQL, Python, Tableau
+Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Relational Databases, Dashboard Design and Development
+
+- 👋 Hi, I’m @DeanJBartorillo, an aspiring data analyst.<br>
 - 🌱 I’m currently learning Tableau for better data visualization and story-teling
 - 📫 Dbartorillo@outlook.com
 
